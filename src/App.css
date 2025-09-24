@@ -56,16 +56,6 @@ nav {
   min-height: 130px;
 }
 
-/* FOOTER */
-.MainFooter {
-min-height: 270px;
-background-color: black;
-}
-
-.SecondaryFooter {
-  height: 80px;
-}
-
 p {
   color: white;
   margin-left: 220px;
@@ -97,3 +87,17 @@ span {
   width: 50px;
 }
 
+/* FOOTER */
+
+
+/* FOOTER */
+.MainFooter {
+min-height: 270px;
+background-image: url(./assets/img/footer-bg.jpg);
+background-size: cover;
+}
+
+.SecondaryFooter {
+  height: 110px;
+  background-color: #303030;
+}
