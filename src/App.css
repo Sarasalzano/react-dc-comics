@@ -2,11 +2,47 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
 }
 
 /* HEADER */
 header {
-  height: 100px;
+  height: 80px;
+}
+
+.LogoHeader {
+height: 70px;
+}
+
+.HeaderWrapper {
+  display: flex;
+  width: 70%;
+  margin: 10px auto;
+  justify-content: space-between;
+  align-items: center;
+}
+
+ul {
+  display: flex;
+  list-style-type: none; 
+}
+
+a {
+  text-decoration: none;
+  color: rgb(65, 65, 65);
+  font-size: 12px;
+  margin-right: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+.BlueText {
+  color: #0282F9;
+} 
+
+nav {
+ display: flex;
+ align-items: center;
 }
 
 /* MAIN */
