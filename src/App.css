@@ -65,3 +65,35 @@ background-color: black;
 .SecondaryFooter {
   height: 80px;
 }
+
+p {
+  color: white;
+  margin-left: 220px;
+  padding-top: 40px;
+  font-size: 20px;
+}
+
+.MainWrapper img {
+  height: 50px;
+  vertical-align: middle;
+}
+
+span {
+  margin-left: 5px;
+  color: white;
+  font-size: 12px ;
+}
+
+.MainWrapper {
+  width: 70%;
+  min-height: 130px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0px auto;
+}
+
+.MenuSvg {
+  width: 50px;
+}
+
