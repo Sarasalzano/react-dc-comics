@@ -3,8 +3,10 @@ export default function MyFooter(){
         <section className="MainFooter">
             <div className="MainFooterWrapper">
                 <div className='ColumnLeft'>
-                    <span>DC COMICS</span>
                     <ul>
+                        <li>
+                            <a href="#">DC COMICS</a>
+                        </li>
                         <li>
                             <a href="#">Characters</a>
                         </li>
