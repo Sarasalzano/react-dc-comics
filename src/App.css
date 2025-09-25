@@ -46,6 +46,12 @@ nav {
 }
 
 /* MAIN */
+.Jumbotron {
+  height: 350px;
+  background-image: url(./assets/img/jumbotron.jpg);
+  background-size: cover;
+}
+
 .Content {
   background-color: black;
   min-height: 100px;

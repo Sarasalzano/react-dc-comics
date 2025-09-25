@@ -1,5 +1,8 @@
 export default function MyMain() {
     return (<main>
+        <section>
+            <div className="Jumbotron"></div>
+        </section>
         <section className="Content">
             <p> -- Content goes here -- </p>
         </section>
