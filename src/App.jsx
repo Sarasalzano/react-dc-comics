@@ -82,8 +82,7 @@ export default function MyApp() {
         <section className="MainFooter">
             <div className="MainFooterWrapper">
                 <div className='ColumnLeft'>
-                    <h3>DC COMICS</h3>
-                    <ul>
+                     <ul>
                         <li>
                             <a href="#">Characters</a>
                         </li>
@@ -106,8 +105,11 @@ export default function MyApp() {
                             <a href="#">News</a>
                         </li>
                     </ul>
-                    <h3>DC</h3>
+                
                     <ul>
+                         <li>
+                            <a href="#">DC</a>
+                        </li>
                         <li>
                             <a href="#">Terms Of Use</a>
                         </li><li>
@@ -132,8 +134,10 @@ export default function MyApp() {
                             <a href="#">Contact Us</a>
                         </li>
                     </ul>
-                    <h3>SITES</h3>
                     <ul>
+                         <li>
+                            <a href="#">SITES</a>
+                        </li>
                         <li>
                             <a href="#">DC</a>
                         </li>
@@ -150,8 +154,10 @@ export default function MyApp() {
                             <a href="#">DC Power Visa</a>
                         </li>
                     </ul>
-                    <h3>SHOP</h3>
                     <ul>
+                         <li>
+                            <a href="#">SHOP</a>
+                        </li>
                         <li>
                             <a href="#">Shop DC</a>
                         </li>
