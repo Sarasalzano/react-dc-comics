@@ -179,3 +179,42 @@ button {
   display: block;
   margin-right: 10px;
 }
+
+/* CARD */
+.myRow {
+  min-height: 100px;
+  width: 70%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.imgWrapper {
+  width: 100%;
+  height: 150px;
+  overflow: hidden;
+}
+
+.myColumn {
+  width: calc(100% / 7);
+  height: 200px;
+  margin: 20px auto;
+}
+
+.myColumn span {
+    font-size: 12px;
+    margin-top: 15px;
+    display: block;
+    text-transform: uppercase;
+}
+
+.imgWrapper img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  display: block;
+
+}
