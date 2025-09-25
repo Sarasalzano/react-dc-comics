@@ -29,37 +29,46 @@ export default function MyFooter(){
                             <a href="#">News</a>
                         </li>
                     </ul>
-                
                     <ul>
-                         <li>
+                        <li>
                             <a href="#">DC</a>
                         </li>
                         <li>
                             <a href="#">Terms Of Use</a>
-                        </li><li>
+                        </li>
+                        <li>
                             <a href="#">Privacy Policy(New)</a>
-                        </li><li>
+                        </li>
+                        <li>
                             <a href="#">Ad Choices</a>
-                        </li><li>
+                        </li>
+                        <li>
                             <a href="#">Advertising</a>
-                        </li><li>
+                        </li>
+                        <li>
                             <a href="#">Jobs</a>
-                        </li><li>
+                        </li>
+                        <li>
                             <a href="#">Subscriptions</a>
-                        </li><li>
+                        </li>
+                        <li>
                             <a href="#">Talent Workshops</a>
-                        </li><li>
+                        </li>
+                        <li>
                             <a href="#">CPSC Certificates</a>
-                        </li><li>
+                        </li>
+                        <li>
                             <a href="#">Ratings</a>
-                        </li><li>
+                        </li>
+                        <li>
                             <a href="#">Shop Help</a>
-                        </li><li>
+                        </li>
+                        <li>
                             <a href="#">Contact Us</a>
                         </li>
                     </ul>
                     <ul>
-                         <li>
+                        <li>
                             <a href="#">SITES</a>
                         </li>
                         <li>
@@ -79,7 +88,7 @@ export default function MyFooter(){
                         </li>
                     </ul>
                     <ul>
-                         <li>
+                        <li>
                             <a href="#">SHOP</a>
                         </li>
                         <li>
@@ -106,8 +115,8 @@ export default function MyFooter(){
                     <img src="./src/assets/img/footer-pinterest.png" alt="pinterest icon" />
                     <img src="./src/assets/img/footer-periscope.png" alt="periscope icon" />
                 </div>
-            
             </div>
         </section>
-    </footer>)
+    </footer>
+    )
 }
