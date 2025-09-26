@@ -1,4 +1,4 @@
-import Comics from "./Comics";
+import ComicsList from "./MyComicsList";
 
 export default function MyMain() {
     return (
@@ -7,7 +7,7 @@ export default function MyMain() {
             <div className="Jumbotron"></div>
         </section>
         <section className="Content">
-            <Comics />
+            <ComicsList />
         </section>
         <section className="Menu">
             <div className="MainWrapper">
